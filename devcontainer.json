@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "lukemv/dotfiles": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
